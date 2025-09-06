@@ -17,7 +17,8 @@ This project is a GraphQL-based job board application built using **FastAPI**, *
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/husseychy/gql.git
+   git clone https://github.com/Shivaprasad47/GraphQL-Job-Board-API
+   
    cd gql/app_sql
    ```
 
@@ -113,4 +114,5 @@ app_sql/
    ```bash
    git push origin feature-name
    ```
+
 5. Open a pull request.
